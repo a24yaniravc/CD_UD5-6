@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/ladmin/Desktop/code/javadoc/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ladmin/Desktop/code/javadoc/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'unitariasud5 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'unitariasud5 1.0-SNAPSHOT API'
+circulo
+/home/ladmin/Desktop/code/javadoc/src/main/java = 1747309161675
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/type-search-index.js = 1747309990246
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/module-search-index.js = 1747309990246
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/index-all.html = 1747309990252
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/tag-search-index.js = 1747309990246
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/link.svg = 1747309990259
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/search.html = 1747309990254
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/element-list = 1747309990213
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/package-search-index.js = 1747309990246
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/search-page.js = 1747309990260
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/allpackages-index.html = 1747309990246
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/index.html = 1747309990254
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/stylesheet.css = 1747309990258
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/copy.svg = 1747309990259
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/member-search-index.js = 1747309990246
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/overview-tree.html = 1747309990239
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/allclasses-index.html = 1747309990246
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/search.js = 1747309990260
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/help-doc.html = 1747309990257
+/home/ladmin/Desktop/code/javadoc/target/site/apidocs/script.js = 1747309990258
